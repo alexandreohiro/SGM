@@ -113,7 +113,7 @@ Logs imutáveis de auditoria.
 
 Conformidade com LGPD.
 
-📖 Filosofia Ohiro
+📖 Filosofia
 
 Modularidade: cada parte pode ser trocada sem afetar o todo.
 
